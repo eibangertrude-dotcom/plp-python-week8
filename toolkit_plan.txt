@@ -1,0 +1,50 @@
+
+PERSONAL MINI-TOOLKIT - PROJECT PLAN
+
+1. TO-DO LIST MANAGER
+Description:
+This tool allows users to add tasks, view all their tasks, and remove tasks when completed.
+
+Concepts used:
+- Lists
+- While loops
+- If and elif conditions
+- User input
+- Print statements
+- F-strings
+
+2. EVEN OR ODD CHECKER
+Description:
+This tool allows users to enter a number and determines whether the number is even or odd.
+
+Concepts used:
+- Variables
+- User input
+- If and else conditions
+- Modulo operator (%)
+- F-strings
+
+3. MULTIPLICATION TABLE GENERATOR
+Description:
+This tool allows users to enter a number and displays its multiplication table from 1 to 10.
+
+Concepts used:
+- Variables
+- For loops
+- User input
+- F-strings
+
+MAIN MENU TEXT:
+
+====================================
+       PERSONAL MINI-TOOLKIT
+====================================
+1. To-Do List Manager
+2. Even or Odd Checker
+3. Multiplication Table Generator
+4. Quit
+====================================
+Enter your choice:
+
+The program will continue displaying the menu until the user selects Quit.
+Invalid choices will display a polite error message.
